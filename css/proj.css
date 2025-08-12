@@ -11,8 +11,6 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: url('/web/20240923145525im_/https://csyn.me/css/path/to/your-background-image.jpg') center/cover no-repeat;
-    color: #fff;
     font-family: 'Roboto Mono', monospace;
     user-select: none;
 }
